@@ -27,7 +27,7 @@
 				<h3><i>Merci de vouloir participer à notre sondage en ligne!</i></h3>
 				<h2>Répondez à 10 questions pour révéler un prix caché qui vous attend à la fin de ce sondage!</span></h2>
 				<button id="startBtn" onclick="start()">COMMENCER LE SONDAGE</button>
-				<center><div style="color: black;"><a href="link" style="color: black;">Terms of Use</a> | <a href="link" style="color: black;">Privacy Policy</a> | <a href="link" style="color: black;">Right to be Forgotten</a> |<br> <a href="link" style="color: black;">Contact Us</a>    </div></center>
+				<div style="color: white;"><a href="./css/terms.html" style="color: white;">Terms of Use</a> | <a href="./css/policy.html" style="color: white;">Privacy Policy</a> | <a href="./css/right.html" style="color: white;">Right to be Forgotten</a> </div>    </div></center>
 			</div>
 
 			<div id="questionBox" style="display:none;"></div>
@@ -165,7 +165,7 @@ function start(){
     </div>
     <!--/questionBox-->
 
-<center><div style="color: black;"><a href="link" style="color: black;">Terms of Use</a> | <a href="link" style="color: black;">Privacy Policy</a> | <a href="link" style="color: black;">Right to be Forgotten</a> |<br> <a href="link" style="color: black;">Contact Us</a>    </div></center>
+<center><div style="color: white;"><a href="./css/terms.html" style="color: white;">Terms of Use</a> | <a href="./css/policy.html" style="color: white;">Privacy Policy</a> | <a href="./css/right.html" style="color: white;">Right to be Forgotten</a> </div></center>
 
 
 
